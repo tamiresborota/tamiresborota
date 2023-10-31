@@ -44,7 +44,7 @@
     - Redação para Blog e Redes Sociais
     - Agendamento de postagens
     - Apoio em ações de marketing interno
-    - 
+      
 - **Gestão de Tráfego Pago** (Abril 2022 - Janeiro 2023)
   - Agência Sépia
     - Gestão de Facebook Ads e Google Ads

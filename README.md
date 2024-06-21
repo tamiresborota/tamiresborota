@@ -1,6 +1,6 @@
 ## Olá, eu sou a Tamires Silva! 👋
 
-🌐 **LinkedIn:** [linkedin.com/in/tamiresmaria](https://www.linkedin.com/in/tamiresborota)
+🌐 **LinkedIn:** [linkedin.com/in/tamiresborota](https://www.linkedin.com/in/tamiresborota)
 🌐 **GitHub:** [github.com/tamiresborota](https://github.com/tamiresborota)
 📍 **Localização:** Essen/Alemanha 🇩🇪🇧🇷
 

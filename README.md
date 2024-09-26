@@ -2,7 +2,7 @@
 
 🌐 **LinkedIn:** [linkedin.com/in/tamiresborota](https://www.linkedin.com/in/tamiresborota)
 🌐 **GitHub:** [github.com/tamiresborota](https://github.com/tamiresborota)
-📍 **Localização:** Essen/Alemanha 🇩🇪🇧🇷
+📍 **Localização:** Bochum/Alemanha 🇩🇪🇧🇷
 
 ### Competências
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
